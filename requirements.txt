@@ -1,0 +1,6 @@
+# Requirements for Todo App Phase I
+# Note: Only built-in Python libraries are used, so this file is mainly for documentation
+# Python 3.8+ is required
+
+# For testing
+pytest>=7.0.0
